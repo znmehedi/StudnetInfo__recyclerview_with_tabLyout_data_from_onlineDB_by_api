@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dpsz1">5dp</dimen>
+    <dimen name="dpsz2">10dp</dimen>
+    <dimen name="dpsz3">15dp</dimen>
+    <dimen name="dpsz4">20dp</dimen>
+    <dimen name="dpsz5">25dp</dimen>
+    <dimen name="dpsz6">45dp</dimen>
+    <dimen name="dpsz7">55dp</dimen>
+    <dimen name="dpsz8">65dp</dimen>
+    <dimen name="dpsz9">75dp</dimen>
+    <dimen name="dpsz10">85dp</dimen>
+    <dimen name="dpsz11">125dp</dimen>
+    <dimen name="spsz1">20sp</dimen>
+    <dimen name="spsz2">25sp</dimen>
+    <dimen name="spsz3">30sp</dimen>
+    <dimen name="spsz4">35sp</dimen>
+    <dimen name="spsz5">40sp</dimen>
+
+</resources>
